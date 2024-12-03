@@ -1,4 +1,12 @@
-<h2 align="left">Olá, eu sou o Lima! <br>Sou um Web Developer e Designer. <br>Sou brasileiro tenho 17 anos de idade e estudo no Sesi e Senai.</h2>
+<h1 align="left">Olá, eu sou o Lima!</h1>
+
+###
+
+<h2 align="left">Sou um Web Developer e Designer.</h2>
+
+###
+
+<p align="left">Sou brasileiro tenho 17 anos de idade e estudo no Sesi e Senai. Trabalho como freelancer criando artes digitais e sites que combinam criatividade e funcionalidade. Vamos criar algo extraordinário juntos?</p>
 
 ###
 
