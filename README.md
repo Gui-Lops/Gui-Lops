@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/guilherme-lima-lopes-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-lima-lopes-profile/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=cfcfcf&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/_whoslima/" target="_blank">
