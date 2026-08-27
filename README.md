@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C3EF4,100:00D9FF&height=220&section=header&text=Guilherme%20Lima%20Lopes&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Code%20%2B%20Data%20%2B%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=%24+whoami;Desenvolvedor+na+2WP+%7C+WordPress;Ci%C3%AAncia+de+Dados+na+FIAP;Formado+em+Dev+pelo+SENAI;Prototipando+com+IA%3A+Claude+%2F+Codex+%2F+Antigravity" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=%24+Quem Sou Eu;Desenvolvedor+na+2WP+%7C+WordPress;Ci%C3%AAncia+de+Dados+na+FIAP;Formado+em+Dev+pelo+SENAI;Prototipando+com+IA%3A+Claude+%2F+Codex+%2F+Antigravity" alt="typing" />
 
 <br/>
 
