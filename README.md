@@ -15,7 +15,7 @@
 <br/>
 
 <pre>
-guilherme@dev:~$ cat sobre_mim.txt
+sobre_mim
 ------------------------------------------------------------------
 &gt; Desenvolvedor na 2WP, atuando com WordPress no dia a dia
 &gt; Estudante de Ciência de Dados na FIAP
@@ -23,7 +23,6 @@ guilherme@dev:~$ cat sobre_mim.txt
 &gt; Integrando IA (Claude, Codex, Antigravity) ao fluxo de trabalho
 &gt; Aprendendo a transformar dado em decisão e código em produto
 ------------------------------------------------------------------
-guilherme@dev:~$ _
 </pre>
 
 <br/>
@@ -119,50 +118,6 @@ guilherme@dev:~$ _
 <div align="center">
 <img src="https://raw.githubusercontent.com/Gui-Lops/Gui-Lops/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-<details>
-<summary><b>Como ativar (leva 2 minutos)</b></summary>
-
-<br/>
-
-1. No repositório `Gui-Lops/Gui-Lops`, crie o arquivo `.github/workflows/snake.yml` com o conteúdo abaixo.
-2. Vá em **Settings → Actions → General → Workflow permissions** e marque **Read and write permissions**.
-3. Rode o workflow uma vez em **Actions → generate snake → Run workflow**.
-
-```yaml
-name: generate snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Gui-Lops
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-<br/>
 
 ## <img src="https://skillicons.dev/icons?i=github&theme=dark" width="26"/> Formação
 
