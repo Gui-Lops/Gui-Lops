@@ -1,66 +1,86 @@
-<h1 align="left">Olá, eu sou o Lima!</h1>
+<h1 align="center">Olá, eu sou o Guilherme 👋</h1>
 
-###
+<h3 align="center">Desenvolvedor na 2WP | Estudante de Ciência de Dados na FIAP</h3>
 
-<h2 align="left">Sou um Web Developer e Designer.</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+WordPress+%40+2WP;Estudante+de+Ci%C3%AAncia+de+Dados+%40+FIAP;Formado+em+Desenvolvimento+%40+SENAI;Explorando+IAs%3A+Claude%2C+Codex%2C+Antigravity" alt="Typing SVG" />
+</p>
 
-###
-
-<p align="left">Sou brasileiro tenho 17 anos de idade e estudo no Sesi e Senai. Trabalho como freelancer criando artes digitais e sites que combinam criatividade e funcionalidade. Vamos criar algo extraordinário juntos?</p>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/236x/64/b4/9b/64b49b6a9ddb834d717bd8d6825c1a63.jpg"  />
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-</div>
-
-###
-
-<div align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/guilherme-lima-lopes-profile/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=cfcfcf&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_whoslima/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cfcfcf&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+  <a href="mailto:guilopes0510@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
+### 🧑‍💻 Sobre mim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gui-Lops&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+- 💼 Atualmente trabalho na **2WP**, desenvolvendo e mantendo sites em **WordPress**
+- 🎓 Cursando **Ciência de Dados** na **FIAP**
+- 🛠️ Formação em **Desenvolvimento de Sistemas** pelo **SENAI**
+- 🤖 Explorando o uso de **IAs generativas** (Claude, Codex, Antigravity) no dia a dia de desenvolvimento
+- 🌱 Sempre aprendendo algo novo em programação e dados
+- 📫 Me chama: **guilopes0510@gmail.com**
 
-###
+---
 
-<br clear="both">
+### 🚀 Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gui-Lops&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gui-Lops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Lops&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gui-Lops&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gui-Lops&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🎓 Formação
+
+| Instituição | Curso | Status |
+|---|---|---|
+| **FIAP** | Ciência de Dados | Em andamento 🔄 |
+| **SENAI** | Desenvolvimento de Sistemas | Concluído ✅ |
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gui-Lops&color=blueviolet&style=flat-square&label=Visitantes+do+perfil" />
+</p>
+
+<p align="center"><i>"Aprendendo, construindo e explorando o mundo do código e dos dados."</i></p>
