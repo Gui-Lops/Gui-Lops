@@ -1,141 +1,292 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C3EF4,100:00D9FF&height=220&section=header&text=Guilherme%20Lima%20Lopes&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Code%20%2B%20Data%20%2B%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# GUILHERME LIMA LOPES
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=%24+QuemSouEu;Desenvolvedor+na+2WP+%7C+WordPress;Ci%C3%AAncia+de+Dados+na+FIAP;Formado+em+Dev+pelo+SENAI;Prototipando+com+IA%3A+Claude+%2F+Codex+%2F+Antigravity" alt="typing" />
+### Web Developer · Data · AI
+
+**Construindo interfaces, sistemas e experiências na interseção entre código, dados e inteligência artificial.**
 
 <br/>
 
-<a href="https://www.linkedin.com/in/guilherme-lima-lopes-profile/"><img src="https://img.shields.io/badge/-guilherme--lima--lopes-1a1a2e?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/_whoslima/"><img src="https://img.shields.io/badge/-_whoslima-1a1a2e?style=flat-square&logo=instagram&logoColor=00D9FF" alt="Instagram"/></a>
-<a href="mailto:guilopes0510@gmail.com"><img src="https://img.shields.io/badge/-guilopes0510%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Gmail"/></a>
+<a href="https://gui-lops.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-FFFFFF?style=for-the-badge&logoColor=000000" alt="Portfólio" />
+</a>
+<a href="https://www.linkedin.com/in/guilherme-lima-lopes-profile/">
+  <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Gui-Lops">
+  <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=2&section=header" width="100%"/>
 
 </div>
 
 <br/>
 
-<pre>
-sobre_mim
-------------------------------------------------------------------
-&gt; Desenvolvedor na 2WP, atuando com WordPress no dia a dia
-&gt; Estudante de Ciência de Dados na FIAP
-&gt; Formado em Desenvolvimento de Sistemas pelo SENAI
-&gt; Integrando IA (Claude, Codex, Antigravity) ao fluxo de trabalho
-&gt; Aprendendo a transformar dado em decisão e código em produto
-------------------------------------------------------------------
-</pre>
+## 01 / SOBRE
 
-<br/>
+```text
+> Desenvolvedor na 2WP, atuando principalmente com WordPress e desenvolvimento web
+> Estudante de Ciência de Dados na FIAP
+> Formado em Desenvolvimento de Sistemas pelo SENAI
+> Explorando a aplicação de IA no desenvolvimento de software
+> Interessado em transformar dados, código e ideias em produtos
+```
 
-## <img src="https://skillicons.dev/icons?i=react&theme=dark" width="26"/> Stack
+Minha trajetória começou no desenvolvimento de sistemas e evoluiu para o desenvolvimento web. Atualmente, amplio minha atuação explorando **dados, automação e inteligência artificial**.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+Gosto de entender não apenas **como construir algo**, mas também **por que aquilo precisa existir, como pode funcionar melhor e como pode evoluir**.
 
-**Back-end & Dados**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,django,mysql,nodejs&theme=dark" />
+---
 
-</td>
-<td width="50%" valign="top">
+## 02 / TRAJETÓRIA
 
-**Front-end & Web**
-<br/>
-<img src="https://skillicons.dev/icons?i=javascript,html,css,wordpress&theme=dark" />
+### 2WP
+**Web Developer · Atual**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Atuação com desenvolvimento e manutenção de projetos web, trabalhando principalmente com WordPress, PHP, JavaScript, CSS, integrações, otimização e construção de experiências digitais.
 
-**Banco de Dados**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+### FIAP
+**Ciência de Dados · Em andamento**
 
-</td>
-<td width="50%" valign="top">
+Formação voltada para programação, análise de dados, bancos de dados, inteligência artificial e construção de soluções orientadas por informação.
 
-**IA no fluxo de trabalho**
-<br/>
-<img src="https://img.shields.io/badge/Claude-1a1a2e?style=flat-square&logo=anthropic&logoColor=D97757"/> <img src="https://img.shields.io/badge/Codex-1a1a2e?style=flat-square&logo=openai&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Antigravity-1a1a2e?style=flat-square&logo=google&logoColor=4285F4"/>
+### SENAI
+**Desenvolvimento de Sistemas · Concluído**
 
-</td>
-</tr>
-</table>
+Formação que consolidou minha base em desenvolvimento de software, lógica de programação, bancos de dados e fundamentos de sistemas.
 
-<br/>
+---
 
-## <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="26"/> Trajetória
+## 03 / STACK
 
-<div align="center">
+### WEB
 
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/SENAI-Dev%20de%20Sistemas-1a1a2e?style=for-the-badge&labelColor=0d0d1a&color=00D9FF"/><br/>
-<sub>✅ Concluído</sub>
-</td>
-<td align="center">➜</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/2WP-Dev%20WordPress-1a1a2e?style=for-the-badge&labelColor=0d0d1a&color=6C3EF4"/><br/>
-<sub>💼 Atual</sub>
-</td>
-<td align="center">➜</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/FIAP-Ci%C3%AAncia%20de%20Dados-1a1a2e?style=for-the-badge&labelColor=0d0d1a&color=00D9FF"/><br/>
-<sub>🔄 Em andamento</sub>
-</td>
-<td align="center">➜</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/próximo-capítulo-0d0d1a?style=for-the-badge&labelColor=0d0d1a&color=444466"/>
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,react&theme=dark" alt="HTML CSS JavaScript WordPress React" />
+</p>
 
-</div>
+`HTML` · `CSS` · `JavaScript` · `WordPress` · `React`
 
-<br/>
+### BACK-END
 
-## <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="26"/> Métricas
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,php&theme=dark" alt="Python Django Node.js PHP" />
+</p>
 
-<div align="center">
+`Python` · `Django` · `Node.js` · `PHP`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gui-Lops&show_icons=true&theme=dracula&hide_border=true&bg_color=0d0d1a&title_color=00D9FF&icon_color=6C3EF4&text_color=e0e0f0&count_private=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Lops&layout=compact&theme=dracula&hide_border=true&bg_color=0d0d1a&title_color=00D9FF&text_color=e0e0f0&cache_seconds=1800" height="165"/>
+### DADOS
 
-<img src="https://streak-stats.demolab.com?user=Gui-Lops&theme=dracula&hide_border=true&background=0D0D1A&stroke=00D9FF&ring=6C3EF4&fire=00D9FF&currStreakLabel=00D9FF" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark" alt="MySQL SQLite PostgreSQL" />
+</p>
 
-</div>
+`SQL` · `MySQL` · `SQLite` · `PostgreSQL` · `Pandas`
 
-> [!NOTE]
-> Esses cartões são gerados em tempo real por serviços públicos (Vercel). Se algum aparecer quebrado, geralmente é rate-limit temporário — dá um refresh na página em alguns minutos que volta ao normal.
+### FERRAMENTAS
 
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="Git GitHub Docker VS Code" />
+</p>
 
-## <img src="https://skillicons.dev/icons?i=github&theme=dark" width="26"/> Snake da contribuição
+`Git` · `GitHub` · `Docker` · `VS Code`
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Gui-Lops/Gui-Lops/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
+### IA NO FLUXO DE DESENVOLVIMENTO
 
-## <img src="https://skillicons.dev/icons?i=github&theme=dark" width="26"/> Formação
+`Claude` · `Codex` · `Antigravity`
 
-| Instituição | Curso | Status |
+Utilizo ferramentas de IA como parte do processo de desenvolvimento para **prototipação, exploração de soluções, análise de código, documentação e aceleração de tarefas**.
+
+A tecnologia funciona como apoio ao processo, enquanto a análise, arquitetura e tomada de decisão continuam fazendo parte do trabalho de desenvolvimento.
+
+---
+
+## 04 / O QUE ESTOU CONSTRUINDO
+
+Atualmente, meus estudos e projetos estão concentrados em três áreas:
+
+```text
+WEB
+Interfaces · WordPress · Front-end · UX · Performance
+
+DATA
+Python · SQL · Analytics · Databases · Data Science
+
+AI
+LLMs · Automação · AI-assisted Development · Prototipação
+```
+
+Meu objetivo é aproximar essas áreas para construir produtos mais completos.
+
+```text
+INTERFACE
+    ↓
+SISTEMA
+    ↓
+DADOS
+    ↓
+INTELIGÊNCIA
+```
+
+**Code → Data → Intelligence**
+
+---
+
+## 05 / PROJETOS
+
+### 01 — PORTFÓLIO
+
+Meu portfólio pessoal reúne projetos, experimentos e trabalhos relacionados ao desenvolvimento web.
+
+**→ [Visitar portfólio](https://gui-lops.github.io/portfolio/)**
+
+---
+
+### 02 — DESIGN SYSTEM
+
+Um espaço dedicado à exploração de componentes, padrões visuais e decisões de interface.
+
+O projeto representa parte da minha preocupação em criar interfaces consistentes, reutilizáveis e escaláveis.
+
+**→ [Explorar Design System](https://gui-lops.github.io/portfolio/design-system.html)**
+
+---
+
+### 03 — PROJETOS DE DADOS
+
+Projetos acadêmicos e experimentais utilizando Python, bancos de dados, análise de dados e APIs.
+
+Inclui estudos voltados para manipulação, armazenamento e análise de informações.
+
+**→ [Ver repositórios](https://github.com/Gui-Lops?tab=repositories)**
+
+---
+
+### 04 — EM CONSTRUÇÃO
+
+Continuo desenvolvendo novos projetos para explorar a integração entre:
+
+`Web` · `Automação` · `Dados` · `Inteligência Artificial`
+
+---
+
+## 06 / FORMAÇÃO
+
+| INSTITUIÇÃO | FORMAÇÃO | STATUS |
 |:---|:---|:---:|
 | **FIAP** | Ciência de Dados | 🔄 Em andamento |
-| **SENAI** | Desenvolvimento de Sistemas | ✅ Concluído |
+| **SENAI** | Desenvolvimento de Sistemas | ✓ Concluído |
 
-<br/>
+---
+
+## 07 / ATUALMENTE EXPLORANDO
+
+```text
+[01] Desenvolvimento Web
+     Interfaces · Performance · Experiência do usuário
+
+[02] Back-end
+     Python · Django · APIs · Sistemas
+
+[03] Dados
+     SQL · Bancos de dados · Analytics · Python
+
+[04] Inteligência Artificial
+     LLMs · Automação · AI-assisted Development
+
+[05] Produto
+     Da ideia à implementação
+```
+
+---
+
+## 08 / MÉTRICAS
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Gui-Lops&label=Visitantes+do+perfil&color=6C3EF4&style=flat-square"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Gui-Lops&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=B3B3B3&count_private=true&include_all_commits=true"
+  height="170"
+  alt="Estatísticas do GitHub"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Lops&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&langs_count=8"
+  height="170"
+  alt="Linguagens mais utilizadas"
+/>
 
 <br/><br/>
 
-<i>"Aprendendo, construindo e explorando o mundo do código e dos dados."</i>
+<img
+  src="https://streak-stats.demolab.com?user=Gui-Lops&hide_border=true&background=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=B3B3B3&dates=777777"
+  alt="Sequência de contribuições"
+/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C3EF4,100:1a1a2e&height=100&section=footer" width="100%"/>
+</div>
+
+<br/>
+
+> Os cartões acima dependem de serviços externos. Caso algum fique temporariamente indisponível, isso não significa necessariamente um problema com o perfil ou repositório.
+
+---
+
+## 09 / CONTRIBUIÇÕES
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Gui-Lops/Gui-Lops/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Animação das contribuições do GitHub"
+/>
+
+</div>
+
+---
+
+## 10 / CONTATO
+
+Se quiser conversar sobre **desenvolvimento, tecnologia, dados, inteligência artificial ou projetos**, fique à vontade para entrar em contato.
+
+<div align="center">
+
+<br/>
+
+<a href="mailto:guilopes0510@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/guilherme-lima-lopes-profile/">
+  <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+</a>
+
+<a href="https://gui-lops.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=000000" alt="Portfólio" />
+</a>
+
+<br/>
+<br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Gui-Lops&label=VISITANTES&color=FFFFFF&style=flat-square&labelColor=0D0D0D"
+  alt="Contador de visitantes"
+/>
+
+<br/>
+<br/>
+
+## `CODE → DATA → INTELLIGENCE`
+
+<i>Aprendendo, construindo e explorando novas possibilidades através da tecnologia.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=100&section=footer" width="100%"/>
 
 </div>
