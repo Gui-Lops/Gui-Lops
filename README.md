@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=180&section=header"
   width="100%"
   alt="Header"
 />
@@ -52,7 +52,9 @@
 > Interessado em transformar dados, código e ideias em produtos
 ```
 
-Minha trajetória começou no desenvolvimento de sistemas e evoluiu para o desenvolvimento web. Atualmente, amplio minha atuação explorando **dados, automação e inteligência artificial**.
+Minha trajetória começou no desenvolvimento de sistemas e evoluiu para o desenvolvimento web.
+
+Atualmente, amplio minha atuação explorando **dados, automação e inteligência artificial**, buscando conectar diferentes áreas da tecnologia para construir soluções mais completas.
 
 Gosto de entender não apenas **como construir algo**, mas também **por que aquilo precisa existir, como pode funcionar melhor e como pode evoluir**.
 
@@ -66,11 +68,15 @@ Gosto de entender não apenas **como construir algo**, mas também **por que aqu
 
 Atuação com desenvolvimento e manutenção de projetos web, trabalhando principalmente com WordPress, PHP, JavaScript, CSS, integrações, otimização e construção de experiências digitais.
 
+---
+
 ### FIAP
 
 **Ciência de Dados · Em andamento**
 
 Formação voltada para programação, análise de dados, bancos de dados, inteligência artificial e construção de soluções orientadas por informação.
+
+---
 
 ### SENAI
 
@@ -93,6 +99,8 @@ Formação que consolidou minha base em desenvolvimento de software, lógica de 
 
 `HTML` · `CSS` · `JavaScript` · `WordPress` · `React`
 
+---
+
 ### BACK-END
 
 <p>
@@ -103,6 +111,8 @@ Formação que consolidou minha base em desenvolvimento de software, lógica de 
 </p>
 
 `Python` · `Django` · `Node.js` · `PHP`
+
+---
 
 ### DADOS
 
@@ -115,6 +125,8 @@ Formação que consolidou minha base em desenvolvimento de software, lógica de 
 
 `SQL` · `MySQL` · `SQLite` · `PostgreSQL` · `Pandas`
 
+---
+
 ### FERRAMENTAS
 
 <p>
@@ -126,13 +138,15 @@ Formação que consolidou minha base em desenvolvimento de software, lógica de 
 
 `Git` · `GitHub` · `Docker` · `VS Code`
 
+---
+
 ### IA NO FLUXO DE DESENVOLVIMENTO
 
 `Claude` · `Codex` · `Antigravity`
 
 Utilizo ferramentas de IA como parte do processo de desenvolvimento para **prototipação, exploração de soluções, análise de código, documentação e aceleração de tarefas**.
 
-A tecnologia funciona como apoio ao processo, enquanto a análise, arquitetura e tomada de decisão continuam fazendo parte do trabalho de desenvolvimento.
+A IA funciona como apoio ao processo, enquanto análise, arquitetura e tomada de decisão continuam fazendo parte do trabalho de desenvolvimento.
 
 ---
 
@@ -153,6 +167,8 @@ LLMs · Automação · AI-assisted Development · Prototipação
 
 Meu objetivo é aproximar essas áreas para construir produtos mais completos.
 
+<div align="center">
+
 ```text
 INTERFACE
     ↓
@@ -162,8 +178,6 @@ DADOS
     ↓
 INTELIGÊNCIA
 ```
-
-<div align="center">
 
 ### `CODE → DATA → INTELLIGENCE`
 
@@ -221,19 +235,19 @@ Continuo desenvolvendo novos projetos para explorar a integração entre:
 ## 07 / ATUALMENTE EXPLORANDO
 
 ```text
-[01] Desenvolvimento Web
+[01] DESENVOLVIMENTO WEB
      Interfaces · Performance · Experiência do usuário
 
-[02] Back-end
+[02] BACK-END
      Python · Django · APIs · Sistemas
 
-[03] Dados
+[03] DADOS
      SQL · Bancos de dados · Analytics · Python
 
-[04] Inteligência Artificial
+[04] INTELIGÊNCIA ARTIFICIAL
      LLMs · Automação · AI-assisted Development
 
-[05] Produto
+[05] PRODUTO
      Da ideia à implementação
 ```
 
@@ -244,13 +258,13 @@ Continuo desenvolvendo novos projetos para explorar a integração entre:
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Gui-Lops&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=B3B3B3&count_private=true&include_all_commits=true&cache_seconds=1800"
+  src="./profile/stats.svg"
   height="180"
   alt="Estatísticas do GitHub"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Lops&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&langs_count=8&cache_seconds=1800"
+  src="./profile/top-langs.svg"
   height="180"
   alt="Linguagens mais utilizadas"
 />
@@ -259,7 +273,7 @@ Continuo desenvolvendo novos projetos para explorar a integração entre:
 
 <br/>
 
-> Os cartões são gerados dinamicamente a partir dos dados públicos do GitHub. A instância pública do serviço pode apresentar indisponibilidade ou rate limit ocasionalmente.
+> As métricas são geradas automaticamente por GitHub Actions e armazenadas neste repositório.
 
 ---
 
@@ -317,13 +331,15 @@ Se quiser conversar sobre **desenvolvimento, tecnologia, dados, inteligência ar
 <br/>
 <br/>
 
+### `CODE → DATA → INTELLIGENCE`
+
 <i>Aprendendo, construindo e explorando novas possibilidades através da tecnologia.</i>
 
 <br/>
 <br/>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=150&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=footer"
   width="100%"
   alt="Footer"
 />
