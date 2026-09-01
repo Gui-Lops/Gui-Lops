@@ -1,5 +1,11 @@
 <div align="center">
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header"
+  width="100%"
+  alt="Header"
+/>
+
 # GUILHERME LIMA LOPES
 
 ### Web Developer · Data · AI
@@ -9,23 +15,32 @@
 <br/>
 
 <a href="https://gui-lops.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-FFFFFF?style=for-the-badge&logoColor=000000" alt="Portfólio" />
+  <img
+    src="https://img.shields.io/badge/PORTFÓLIO-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=000000"
+    alt="Portfólio"
+  />
 </a>
+
 <a href="https://www.linkedin.com/in/guilherme-lima-lopes-profile/">
-  <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"
+    alt="LinkedIn"
+  />
 </a>
+
 <a href="https://github.com/Gui-Lops">
-  <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
+  <img
+    src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"
+    alt="GitHub"
+  />
 </a>
 
 <br/>
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=2&section=header" width="100%"/>
 
 </div>
 
-<br/>
+---
 
 ## 01 / SOBRE
 
@@ -46,16 +61,19 @@ Gosto de entender não apenas **como construir algo**, mas também **por que aqu
 ## 02 / TRAJETÓRIA
 
 ### 2WP
+
 **Web Developer · Atual**
 
 Atuação com desenvolvimento e manutenção de projetos web, trabalhando principalmente com WordPress, PHP, JavaScript, CSS, integrações, otimização e construção de experiências digitais.
 
 ### FIAP
+
 **Ciência de Dados · Em andamento**
 
 Formação voltada para programação, análise de dados, bancos de dados, inteligência artificial e construção de soluções orientadas por informação.
 
 ### SENAI
+
 **Desenvolvimento de Sistemas · Concluído**
 
 Formação que consolidou minha base em desenvolvimento de software, lógica de programação, bancos de dados e fundamentos de sistemas.
@@ -67,7 +85,10 @@ Formação que consolidou minha base em desenvolvimento de software, lógica de 
 ### WEB
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,react&theme=dark" alt="HTML CSS JavaScript WordPress React" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,wordpress,react&theme=dark"
+    alt="HTML CSS JavaScript WordPress React"
+  />
 </p>
 
 `HTML` · `CSS` · `JavaScript` · `WordPress` · `React`
@@ -75,7 +96,10 @@ Formação que consolidou minha base em desenvolvimento de software, lógica de 
 ### BACK-END
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,php&theme=dark" alt="Python Django Node.js PHP" />
+  <img
+    src="https://skillicons.dev/icons?i=python,django,nodejs,php&theme=dark"
+    alt="Python Django Node.js PHP"
+  />
 </p>
 
 `Python` · `Django` · `Node.js` · `PHP`
@@ -83,7 +107,10 @@ Formação que consolidou minha base em desenvolvimento de software, lógica de 
 ### DADOS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark" alt="MySQL SQLite PostgreSQL" />
+  <img
+    src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark"
+    alt="MySQL SQLite PostgreSQL"
+  />
 </p>
 
 `SQL` · `MySQL` · `SQLite` · `PostgreSQL` · `Pandas`
@@ -91,7 +118,10 @@ Formação que consolidou minha base em desenvolvimento de software, lógica de 
 ### FERRAMENTAS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="Git GitHub Docker VS Code" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark"
+    alt="Git GitHub Docker VS Code"
+  />
 </p>
 
 `Git` · `GitHub` · `Docker` · `VS Code`
@@ -133,7 +163,11 @@ DADOS
 INTELIGÊNCIA
 ```
 
-**Code → Data → Intelligence**
+<div align="center">
+
+### `CODE → DATA → INTELLIGENCE`
+
+</div>
 
 ---
 
@@ -210,29 +244,22 @@ Continuo desenvolvendo novos projetos para explorar a integração entre:
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Gui-Lops&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=B3B3B3&count_private=true&include_all_commits=true"
-  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Gui-Lops&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=B3B3B3&count_private=true&include_all_commits=true&cache_seconds=1800"
+  height="180"
   alt="Estatísticas do GitHub"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Lops&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&langs_count=8"
-  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Lops&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&langs_count=8&cache_seconds=1800"
+  height="180"
   alt="Linguagens mais utilizadas"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Gui-Lops&hide_border=true&background=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=B3B3B3&dates=777777"
-  alt="Sequência de contribuições"
 />
 
 </div>
 
 <br/>
 
-> Os cartões acima dependem de serviços externos. Caso algum fique temporariamente indisponível, isso não significa necessariamente um problema com o perfil ou repositório.
+> Os cartões são gerados dinamicamente a partir dos dados públicos do GitHub. A instância pública do serviço pode apresentar indisponibilidade ou rate limit ocasionalmente.
 
 ---
 
@@ -243,7 +270,7 @@ Continuo desenvolvendo novos projetos para explorar a integração entre:
 <img
   src="https://raw.githubusercontent.com/Gui-Lops/Gui-Lops/output/github-contribution-grid-snake-dark.svg"
   width="100%"
-  alt="Animação das contribuições do GitHub"
+  alt="GitHub Contribution Snake"
 />
 
 </div>
@@ -259,15 +286,24 @@ Se quiser conversar sobre **desenvolvimento, tecnologia, dados, inteligência ar
 <br/>
 
 <a href="mailto:guilopes0510@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"
+    alt="Email"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/guilherme-lima-lopes-profile/">
-  <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://gui-lops.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=000000" alt="Portfólio" />
+  <img
+    src="https://img.shields.io/badge/PORTFÓLIO-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=000000"
+    alt="Portfólio"
+  />
 </a>
 
 <br/>
@@ -281,12 +317,15 @@ Se quiser conversar sobre **desenvolvimento, tecnologia, dados, inteligência ar
 <br/>
 <br/>
 
-## `CODE → DATA → INTELLIGENCE`
-
 <i>Aprendendo, construindo e explorando novas possibilidades através da tecnologia.</i>
 
-<br/><br/>
+<br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=100&section=footer" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=150&section=footer"
+  width="100%"
+  alt="Footer"
+/>
 
 </div>
